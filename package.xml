@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<package>
+    <name>Custom_Login_Redirection</name>
+    <version>0.1.0</version>
+    <stability>stable</stability>
+    <license>Open Software License (OSL)</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>Custom Login Redirection allows admin to redirect customer to custom page after  login. </summary>
+    <description>Introduction:&#xD;
+&#xD;
+Custom Login Redirection allows store admin to redirect customer to custom page after login.&#xD;
+&#xD;
+Features:&#xD;
+&#xD;
+- Upgrade Proof Module.&#xD;
+-No Core files are override&#xD;
+- Easy to install &amp; configure.&#xD;
+- Option to enable/disable&#xD;
+- Option for custom redirection url.&#xD;
+&#xD;
+Installation/Configuration:&#xD;
+&#xD;
+- Disable the Cache&#xD;
+- Just copy &amp; paste the app folder provided in the extension zip file.&#xD;
+- If you are already logged in during installation then try to logout &amp; re-login.&#xD;
+- Go to System &gt; Configuration &gt; Magegeeks Extensions &gt; Redirect Login Configuration &gt; Manage your settings here.</description>
+    <notes>Custom Login Redirection allows admin to redirect customer to custom page after  login. &#xD;
+Note: This module will not override any core files.</notes>
+    <authors><author><name>Deepak mnakotia</name><user>deepakmankotia</user><email>deepakmankotiacse@gmail.com</email></author></authors>
+    <date>2015-07-04</date>
+    <time>13:05:32</time>
+    <contents><target name="mageetc"><dir name="modules"><file name="Magegeeks_Redirectlogin.xml" hash="b32fc8840db962c0f2f76296e91372b2"/></dir></target><target name="magecore"><dir name="."><file name="Magegeeks" hash=""/></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.1.0</min><max>5.6.0</max></php></required></dependencies>
+</package>

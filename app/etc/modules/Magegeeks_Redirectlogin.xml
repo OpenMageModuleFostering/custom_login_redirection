@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * @package    Magegeeks_Redirectlogin
+ * @author     Deepak Mankotia
+ * @Email      deepakmankotiacse@gmail.com
+ */
+
+-->
+    <config>
+      <modules>
+        <Magegeeks_Redirectlogin>
+          <active>true</active>
+          <codePool>local</codePool>
+          <version>0.1.0</version>
+        </Magegeeks_Redirectlogin>
+      </modules>
+    </config>
+
+
