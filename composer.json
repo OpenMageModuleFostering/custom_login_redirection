@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/Custom_Login_Redirection",
+    "name": "openmage-module-fostering\/custom_login_redirection",
     "type": "magento-module",
-    "license": "Open-Software-License-(OSL)",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "Custom Login Redirection allows admin to redirect customer to custom page after  login. ",
     "authors": [
